@@ -14,7 +14,7 @@
 * **VERTICAL_OFFSET  :** Connect a Boolean Toggle to displace curves 
 * **MESH_FORMATION  :** Connect a Boolean Toggle to create 3D mesh
 
-  
+---  
 
 ## HOW IT WORKS
 
