@@ -9,3 +9,7 @@
 ## INPUTS
 
 ![](Assets/component.png)
+
+sfsgsgvxsgsxbh
+
+![](Assets/flowchart.png)
