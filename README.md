@@ -10,6 +10,10 @@
 
 ![](Assets/component.png)
 
-sfsgsgvxsgsxbh
+**CONTOUR_INPUT   :** Connect a Geometry Pipeline and right click to set geometry as Curves
+**VERTICAL_OFFSET :** Connect a Boolean Toggle to displace curves 
+**MESH_FORMATION  :** Connect a Boolean Toggle to create 3D mesh
+
+### HOW IT WORKS
 
 ![](Assets/SWAAN_flowchart.png)
