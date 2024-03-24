@@ -19,8 +19,6 @@
 
 **Following steps explain how to use the plugin -**
 
-
-
 ![](Assets/SWAAN_2.png)
 ![](Assets/SWAAN_3.png)
 ![](Assets/SWAAN_4.png)
@@ -32,13 +30,17 @@
 **This flowchart explains workflow of code -**
 ![](Assets/SWAAN_flowchart.png)
 
+
 ## LICENSE
 
 Copyright (c) 2024 cmadithya
 
-The project 'SWAN' is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE) file.
+The project 'SWAAN' is licensed under the MIT License. For more details, please refer to the [LICENSE](LICENSE) file.
 
 
+## ACKNOWLEDGEMENT
+
+- **My friend [Sandheep Rajkumar](https://github.com/lolrazh)** for helping me compile this project.
 
 
 
