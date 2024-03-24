@@ -8,4 +8,4 @@
 
 aaaaaaaa
 
-![](Assets/SWAAN_png3.png)
+![](Assets/component.png)
