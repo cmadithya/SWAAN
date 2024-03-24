@@ -6,6 +6,6 @@
 
 ![](Assets/SWAAN_GIF.gif)
 
-aaaaaaaa
+## INPUTS
 
 ![](Assets/component.png)
