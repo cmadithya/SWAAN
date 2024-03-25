@@ -40,7 +40,7 @@ The project 'SWAAN' is licensed under the MIT License. For more details, please 
 
 ## ACKNOWLEDGEMENT
 
-- **My friend [Sandheep Rajkumar](https://github.com/lolrazh)** for helping me compile this project.
+- **I would likw to thank my friend [Sandheep Rajkumar](https://github.com/lolrazh)** for helping me compile this project.
 
 
 
