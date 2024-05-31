@@ -5,13 +5,9 @@ By: CM Adithya
 
 STEPS -
 1) Unzip the .zip file 
-2) Drag and drop the .ghuser files into your Grasshopper canvas
-OR
-3) Go to the Grasshopper Libraries folder
-     3.1) In Grasshopper, go to File>Special Folders>User Objects Folder
-     3.2) In Windows,  go to C:\Users\--username--\AppData\Roaming\Grasshopper\UserObjects
+2) Copy the ghuser file in %AppData%\Grasshopper\UserObjects
+3) Copy the GHPY file in  %AppData%\Grasshopper\Libraries
 4) Delete any previous versions of SWAAN (if any).
-3) Paste the .ghpy file into the Libraries folder.
 
 
 ADDITIONAL -
